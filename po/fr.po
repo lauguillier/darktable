@@ -136,7 +136,7 @@ msgstr "double-cliquer pour réinitialiser à « %d »"
 
 #: ../build/src/preferences_gen.h:2187
 msgid "initial star rating for all images when importing a filmroll"
-msgstr "étoile(s) attribuée(s) lors de l'importation"
+msgstr "note attribuée lors de l'importation"
 
 #: ../build/src/preferences_gen.h:2195 ../src/libs/tools/lighttable.c:89
 #: ../src/views/lighttable.c:249
