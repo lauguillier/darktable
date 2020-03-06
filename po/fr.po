@@ -4965,7 +4965,7 @@ msgstr "image unique"
 
 #: ../src/imageio/format/pdf.c:683
 msgid "contact sheet"
-msgstr "planche contacte"
+msgstr "planche contact"
 
 #. gtk_grid_attach(grid, GTK_WIDGET(d->pages), 0, ++line, 2, 1);
 #. g_signal_connect(G_OBJECT(d->pages), "value-changed", G_CALLBACK(pages_toggle_callback), self);
@@ -4993,7 +4993,7 @@ msgstr "nombre de bit pour les images embarquées"
 #: ../src/imageio/format/pdf.c:720 ../src/imageio/format/png.c:538
 #: ../src/imageio/format/tiff.c:486
 msgid "compression"
-msgstr "dégradé"
+msgstr "compression"
 
 #: ../src/imageio/format/pdf.c:721 ../src/imageio/format/tiff.c:487
 msgid "uncompressed"
@@ -5103,9 +5103,9 @@ msgid ""
 "graphic : discrete tone image (graph, map-tile etc)"
 msgstr ""
 "description de l'image pour l'encodeur.\n"
-"image: photographie d'intérieur, portrait\n"
-"photo: photographie d'extérieur, avec lumière naturelle\n"
-" graphique: image avec des couleurs uniformes (schéma, etc)"
+"image : photographie d'intérieur, portrait\n"
+"photo : photographie d'extérieur, avec lumière naturelle\n"
+"graphique : image avec des couleurs uniformes (schéma, etc)"
 
 #: ../src/imageio/format/webp.c:351
 msgid "default"
