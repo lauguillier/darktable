@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: darktable 2.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-06 17:41+0100\n"
-"PO-Revision-Date: 2020-03-06 18:25+0100\n"
+"PO-Revision-Date: 2020-03-06 18:56+0100\n"
 "Last-Translator: Pascal Obry <pascal@obry.net>\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -1378,7 +1378,7 @@ msgstr ""
 msgid "failed to get parameters from storage module, aborting export ..."
 msgstr ""
 "impossible d'obtenir les paramètres du module de stockage, exportation "
-"abandonnée..."
+"abandonnée ..."
 
 #: ../src/cli/main.c:369
 #, c-format
@@ -1389,7 +1389,7 @@ msgstr "extension inconnue « .%s »"
 msgid "failed to get parameters from format module, aborting export ..."
 msgstr ""
 "impossible d'obtenir les paramètres du module de format, exportation "
-"abandonnée..."
+"abandonnée ..."
 
 #: ../src/common/collection.c:521
 msgid "too much time to update aspect ratio for the collection"
@@ -2293,7 +2293,7 @@ msgstr "m"
 
 #: ../src/control/control.c:294
 msgid "working..."
-msgstr "en cours..."
+msgstr "en cours ..."
 
 #: ../src/control/control.c:672
 #, c-format
@@ -2377,7 +2377,7 @@ msgstr "importer des images depuis le boîtier"
 #: ../src/control/jobs/control_jobs.c:141
 msgid "failed to create film roll for destination directory, aborting move.."
 msgstr ""
-"échec de la création du dossier de destination, abandon du déplacement..."
+"échec de la création du dossier de destination, abandon du déplacement ..."
 
 #: ../src/control/jobs/control_jobs.c:338
 msgid "exposure bracketing only works on raw images."
@@ -2528,8 +2528,8 @@ msgstr[1] "mise à jour des informations de %d images"
 #, c-format
 msgid "exporting %d image.."
 msgid_plural "exporting %d images.."
-msgstr[0] "exportation de %d image..."
-msgstr[1] "exportation de %d images..."
+msgstr[0] "exportation de %d image ..."
+msgstr[1] "exportation de %d images ..."
 
 #: ../src/control/jobs/control_jobs.c:1260
 #, c-format
@@ -3970,7 +3970,8 @@ msgstr "importation"
 #: ../src/gui/camera_import_dialog.c:304
 msgid "please wait while prefetching thumbnails of images from camera..."
 msgstr ""
-"merci de patienter pendant la récupération des miniatures de votre boîtier..."
+"merci de patienter pendant la récupération des miniatures de votre "
+"boîtier ..."
 
 #: ../src/gui/camera_import_dialog.c:311 ../src/libs/session.c:100
 msgid "jobcode"
@@ -4499,7 +4500,7 @@ msgstr "auto"
 #: ../src/gui/preferences.c:545 ../src/gui/preferences.c:638
 msgctxt "preferences"
 msgid "import..."
-msgstr "importer..."
+msgstr "importer ..."
 
 #. Adding the outer container
 #: ../src/gui/preferences.c:585
@@ -4517,7 +4518,7 @@ msgstr "lien"
 #. export button
 #: ../src/gui/preferences.c:643 ../src/libs/styles.c:472
 msgid "export..."
-msgstr "exporter..."
+msgstr "exporter ..."
 
 #. Setting the notification text
 #: ../src/gui/preferences.c:917
@@ -4721,7 +4722,7 @@ msgstr "supprimer ce pré-réglage"
 
 #: ../src/gui/presets.c:939 ../src/libs/lib.c:499
 msgid "store new preset.."
-msgstr "nouveau pré-réglage..."
+msgstr "nouveau pré-réglage ..."
 
 #: ../src/gui/presets.c:945 ../src/libs/lib.c:511
 msgid "update preset"
@@ -5203,7 +5204,7 @@ msgstr "images exportées depuis darktable"
 
 #: ../src/imageio/storage/email.c:250
 msgid "could not launch email client!"
-msgstr "impossible de lancer le client de messagerie!"
+msgstr "impossible de lancer le client de messagerie !"
 
 #: ../src/imageio/storage/gallery.c:72
 msgid "website gallery"
@@ -6450,7 +6451,7 @@ msgstr "cadre constant"
 
 #: ../src/iop/borders.c:949 ../src/iop/borders.c:975 ../src/iop/borders.c:981
 msgid "custom..."
-msgstr "personnalisé..."
+msgstr "personnalisé ..."
 
 #: ../src/iop/borders.c:970 ../src/iop/borders.c:976
 msgid "center"
@@ -12128,7 +12129,7 @@ msgstr "rechercher une pellicule"
 # lorsque l'action n'engendre pas de suppression physique, on emploie le terme "enlever"
 #: ../src/libs/collect.c:380
 msgid "remove..."
-msgstr "enlever..."
+msgstr "enlever ..."
 
 #: ../src/libs/collect.c:962
 msgid "uncategorized"
@@ -12318,7 +12319,7 @@ msgstr "supprimer l'historiqe des images ?"
 
 #: ../src/libs/copy_history.c:309 ../src/libs/image.c:385
 msgid "copy..."
-msgstr "copier..."
+msgstr "copier ..."
 
 #: ../src/libs/copy_history.c:312
 msgid ""
@@ -12342,7 +12343,7 @@ msgstr ""
 
 #: ../src/libs/copy_history.c:324
 msgid "paste..."
-msgstr "coller..."
+msgstr "coller ..."
 
 #: ../src/libs/copy_history.c:326
 msgid ""
@@ -12398,7 +12399,7 @@ msgstr "gestion des développements pré-existants"
 
 #: ../src/libs/copy_history.c:360
 msgid "load sidecar file..."
-msgstr "charger un xmp..."
+msgstr "charger un xmp ..."
 
 #: ../src/libs/copy_history.c:363
 msgid ""
@@ -12815,7 +12816,7 @@ msgstr "applique le décalage horaire aux images sélectionnées"
 #. gpx
 #: ../src/libs/geotagging.c:815
 msgid "apply GPX track file..."
-msgstr "applique un ficher GPX..."
+msgstr "applique un ficher GPX ..."
 
 #: ../src/libs/geotagging.c:816
 msgid "parses a GPX file and updates location of selected images"
@@ -12951,7 +12952,7 @@ msgstr "enlève de la bibliothèque"
 
 #: ../src/libs/image.c:378
 msgid "move..."
-msgstr "déplacer..."
+msgstr "déplacer ..."
 
 #: ../src/libs/image.c:381
 msgid "move to other folder"
@@ -13128,7 +13129,7 @@ msgctxt "accel"
 msgid "rotate selected images 90 degrees CCW"
 msgstr ""
 "tourne les images de 90 degrés\n"
-"(sens anit-horaire)"
+"(sens anti-horaire)"
 
 #: ../src/libs/image.c:567
 msgctxt "accel"
@@ -13266,7 +13267,7 @@ msgstr "importer un dossier"
 #. add import single image buttons
 #: ../src/libs/import.c:970
 msgid "image..."
-msgstr "image..."
+msgstr "image ..."
 
 #: ../src/libs/import.c:974
 msgid "select one or more images to import"
@@ -13275,7 +13276,7 @@ msgstr "sélectionner une ou plusieurs images à importer"
 #. adding the import folder button
 #: ../src/libs/import.c:981
 msgid "folder..."
-msgstr "dossier..."
+msgstr "dossier ..."
 
 #: ../src/libs/import.c:985
 msgid "select a folder to import as film roll"
@@ -14405,7 +14406,7 @@ msgstr "crée une image virtuelle avant d'appliquer le style"
 #. create
 #: ../src/libs/styles.c:445
 msgid "create..."
-msgstr "créer..."
+msgstr "créer ..."
 
 #: ../src/libs/styles.c:447
 msgid "create styles from history stack of selected images"
@@ -14414,7 +14415,7 @@ msgstr "créer des styles à partir des images sélectionnées"
 #. edit
 #: ../src/libs/styles.c:451
 msgid "edit..."
-msgstr "éditer..."
+msgstr "éditer ..."
 
 #: ../src/libs/styles.c:454
 msgid "edit the selected style in list above"
@@ -14428,7 +14429,7 @@ msgstr "supprime le style sélectionné dans la liste ci-dessus"
 #: ../src/libs/styles.c:465 ../src/libs/tagging.c:2765
 msgctxt "verb"
 msgid "import..."
-msgstr "importer..."
+msgstr "importer ..."
 
 #: ../src/libs/styles.c:467
 msgid "import style from a style file"
@@ -14594,7 +14595,7 @@ msgstr "au moins un nouveau mot-clé (%s) existe déjà, annulation"
 
 #: ../src/libs/tagging.c:1783
 msgid "rename path?"
-msgstr "renommer un chemin?"
+msgstr "renommer un chemin ?"
 
 #: ../src/libs/tagging.c:1790
 #, c-format
@@ -14620,11 +14621,11 @@ msgstr "supprimer un mot-clé"
 
 #: ../src/libs/tagging.c:1997
 msgid "create tag..."
-msgstr "créer un mot-clé..."
+msgstr "créer un mot-clé ..."
 
 #: ../src/libs/tagging.c:2001
 msgid "edit tag..."
-msgstr "éditer le mot-clé..."
+msgstr "éditer le mot-clé ..."
 
 #: ../src/libs/tagging.c:2010
 msgid "rename path..."
