@@ -13737,7 +13737,7 @@ msgstr "longitude"
 
 #: ../src/libs/metadata_view.c:135
 msgid "elevation"
-msgstr "élévation"
+msgstr "altitude"
 
 #: ../src/libs/metadata_view.c:139
 msgid "categories"
